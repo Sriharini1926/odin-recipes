@@ -1,0 +1,45 @@
+h1{
+    background-color: darkgreen;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 0 auto;
+    width: auto;
+}
+h3{
+    background-color: darkolivegreen;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin:0 auto;
+    padding:10px;
+}
+.ingredients{
+    background-color: hwb(51 25% 15%);
+    margin :10px;
+    color:black;
+}
+.center{
+    display: block;
+    margin:0 auto;
+    padding:20px;
+    background-color: grey;
+}
+a{
+    display: block;
+    padding: 5px;
+    width:40px;
+    margin:0 auto;
+    background-color: darkgray;
+    text-align: center;
+    color: azure;
+}
+h2{
+    
+    background-color: rgb(168, 221, 75);
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin:0 auto;
+    padding:10px;
+}
